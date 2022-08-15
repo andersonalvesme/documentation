@@ -18,3 +18,5 @@ Quick Start (Ferramentas)\
 * modificadores, exemplo: stopPropagation
 * uso de **template**&#x20;
 * keyword **this**&#x20;
+* Form Input Bindings
+* Two-way Data Binding
