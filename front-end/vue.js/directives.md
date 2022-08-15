@@ -7,3 +7,5 @@ v-for
 v-on
 
 v-bind
+
+v-html

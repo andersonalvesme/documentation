@@ -1,18 +1,13 @@
 # Table of contents
 
-* [JavaScript](README.md)
-  * [Variables](javascript/variables.md)
-  * [Notes](javascript/notes.md)
-  * [Http requests](javascript/http-requests.md)
+* [Quick Start](README.md)
+* [JavaScript](javascript/README.md)
+  * [Variables](readme/variables.md)
+  * [Notes](readme/notes.md)
+  * [Http requests](readme/http-requests.md)
 
 ## front-end
 
-* [Vue.js](front-end/vue.js/README.md)
-  * [Directives](front-end/vue.js/directives.md)
-  * [Vuex](front-end/vue.js/vuex.md)
-  * [Vue Router](front-end/vue.js/vue-router.md)
-  * [Loops](front-end/vue.js/loops.md)
-  * [Lifecycle Hooks](front-end/vue.js/lifecycle-hooks.md)
 * [React.js](front-end/react.js/README.md)
   * [Quick start](front-end/react.js/quick-start.md)
   * [Components](front-end/react.js/components.md)
@@ -21,8 +16,16 @@
   * [Hooks](front-end/react.js/hooks.md)
   * [Notes](front-end/react.js/notes.md)
   * [Environment variables](front-end/react.js/environment-variables.md)
-  * [Libraries](front-end/react.js/libraries/README.md)
-    * [Axios](front-end/react.js/libraries/axios.md)
+* [Vue.js](front-end/vue.js/README.md)
+  * [Quick Start](front-end/vue.js/quick-start.md)
+  * [Directives](front-end/vue.js/directives.md)
+  * [Vuex](front-end/vue.js/vuex.md)
+  * [Vue Router](front-end/vue.js/vue-router.md)
+  * [Loops](front-end/vue.js/loops.md)
+  * [Lifecycle Hooks](front-end/vue.js/lifecycle-hooks.md)
+  * [Computed properties](front-end/vue.js/computed-properties.md)
+* [Libraries](front-end/libraries/README.md)
+  * [Axios](front-end/libraries/axios.md)
 
 ## back-end
 
