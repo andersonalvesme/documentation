@@ -5,6 +5,7 @@
   * [Variables](readme/variables.md)
   * [Notes](readme/notes.md)
   * [Http requests](readme/http-requests.md)
+* [SASS](sass.md)
 
 ## front-end
 
@@ -19,6 +20,7 @@
 * [Vue.js](front-end/vue.js/README.md)
   * [Quick Start](front-end/vue.js/quick-start.md)
   * [Directives](front-end/vue.js/directives.md)
+  * [props](front-end/vue.js/props.md)
   * [Vuex](front-end/vue.js/vuex.md)
   * [Vue Router](front-end/vue.js/vue-router.md)
   * [Loops](front-end/vue.js/loops.md)
