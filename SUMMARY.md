@@ -31,13 +31,22 @@
 
 ## back-end
 
-* [Express](back-end/express.md)
-* [Nest](back-end/nest.md)
+* [Quick Start](back-end/quick-start.md)
+* [Express.js](back-end/express.md)
+* [Nest.js](back-end/nest/README.md)
+  * [Controllers](back-end/nest/controllers.md)
+  * [Modules](back-end/nest/modules.md)
+  * [Providers](back-end/nest/providers.md)
 * [Node](back-end/node/README.md)
   * [Creating project](back-end/node/creating-project.md)
   * [Libraries](back-end/node/libraries/README.md)
     * [Prisma](back-end/node/libraries/prisma.md)
   * [Notes](back-end/node/notes.md)
+
+## Databases
+
+* [MySQL](databases/mysql.md)
+* [MongoDB](databases/mongodb.md)
 
 ## DevOps
 
