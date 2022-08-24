@@ -31,7 +31,7 @@
 
 ## back-end
 
-* [Quick Start](back-end/quick-start/README.md)
+* [Quick Start](back-end/quick-start.md)
   * [REST API](back-end/quick-start/rest-api.md)
 * [Express.js](back-end/express.md)
 * [Nest.js](back-end/nest/README.md)
