@@ -45,3 +45,20 @@ First you need to set up a React Environment on your computer. You can use creat
 Open your terminal and run this command: npx create-react-app my-react-app
 
 > Note: If you've previously installed **create-react-app** globally, it is recommended that you uninstall the package to ensure npx always uses the latest version of create-react-app. To uninstall, run this command: **npm uninstall -g create-react-app**.
+
+### Why use React?
+
+* Virtual DOM instead of Real DOM;
+* Fast and scalable;
+* The JSX syntax is easy for read and write;
+* Easy to integrate.
+
+### DOM virtual vs DOM real <a href="#h-dom-virtual-vs-dom-real" id="h-dom-virtual-vs-dom-real"></a>
+
+DOM é a abreviação de **Document Object Model**, que é uma interface multiplataforma que representa e interage com objetos em documentos XML e HTML.
+
+Essa interface interpreta esses documentos como a estrutura de uma árvore, onde cada galho é um objeto representado uma parte do documento.
+
+Dando um exemplo, quando estamos falando de Desenvolvimento Web ou de Aplicações móveis, o DOM é usado para representar os textos no HTML.
+
+O React utiliza o que é conhecido como DOM virtual, que basicamente é uma cópia simplificada dos textos HTML do React, além de ser uma representação do DOM real. O DOM virtual é superior ao DOM real por ser muito mais rápido e mais barato de ser utilizado.
