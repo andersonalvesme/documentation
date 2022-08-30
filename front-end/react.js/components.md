@@ -1,3 +1,9 @@
+---
+description: >-
+  Components are isolated sets of logic (Javascript), visualization (JSX/HTML)
+  and possible styling (CSS).
+---
+
 # Components
 
 There are two types of components, **Class components** and **Function components**.
@@ -30,15 +36,3 @@ function Dog() {
     return <h2>Hi, I am a Dog</h2>;
 }
 ```
-
-### Props
-
-props\
-function Nome({nome, idade}) {\
-&#x20; return (\
-\<div>\<h1>Nome: {nome}. Idade: {idade}\</h1>\</div> // -> JSX\
-)\
-}\
-export default App;\
-\
-\<Nome nome="Roberto" idade="30" />
